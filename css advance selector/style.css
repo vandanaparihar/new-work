@@ -1,0 +1,27 @@
+li{
+    color: red;
+}
+#list2{
+    color: green;
+}
+.list5{
+    color: blue;
+}
+a:hover{
+    color: yellowgreen;
+}
+p::first-line{
+    color: rebeccapurple;
+}
+a[href="https://www.google.com"]{
+    color: chartreuse;
+}
+/* *{
+    border: 1px solid black;
+} */
+div a{
+    color: tomato;
+}
+div>a{
+    color: rgb(153, 129, 125);
+}
