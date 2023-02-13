@@ -1,0 +1,11 @@
+.display{
+    border: 1px solid red;
+    width: 50%;
+    height: 100px;
+    /* display: inline; */
+    display: inline-block;
+}
+#div1{
+    display: none; /*it will be remove from html*/
+    /* visibility: hidden;*/  /*it will be there but hidden that occupy space also */
+}
