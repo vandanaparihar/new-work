@@ -1,0 +1,13 @@
+#border{
+    /* border-style: solid dashed none dotted;
+    border-width: 5px;
+    border-color: red; */
+
+    border: 5px solid black;
+
+    /* border-top-style: solid;
+    border-top-style: 10px;
+    border-top-style: black; */
+
+    border-radius: 10px;
+}
