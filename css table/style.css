@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+caption{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+    height: 30px;
+    padding: 15px;
+}
+td{
+    border: 1px solid black;
+    height: 25px;
+    padding: 5px;
+}
