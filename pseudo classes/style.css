@@ -1,0 +1,25 @@
+/* li:first-child{
+    color: red;
+}
+li:last-child{
+    color: violet;
+}
+li:nth-child(4){
+    color: brown;
+} */   /* it will be select child in the bracket */
+li:nth-child(odd){
+    color: blueviolet; /* it will be select  */
+}
+/* li:nth-child(even){
+    color: chartreuse;
+}  */  /* it will be select even */
+/* li:nth-child(3n + 6){
+    color: green;
+}  */      /*this is for pattern*/
+/* li:nth-last-child(2){
+    color: pink;
+} */    /* it will be select fro last that you give value in bracket */
+input:focus{
+    border: 3px solid red;
+    background-color: gray;
+}
