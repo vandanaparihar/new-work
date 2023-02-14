@@ -1,0 +1,5 @@
+#function{
+    background-color: dodgerblue;
+    height: 200px;
+    width: calc(100% - 200px);
+ }
